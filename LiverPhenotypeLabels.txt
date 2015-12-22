@@ -1,0 +1,113 @@
+Label	Source	Category	Description	Type
+Accumulation..foam.cell	liver	cytotoxicity	"Accumulation, foam cell"	Pathology
+Accumulation..foam.cell	liver	inflammation	"Accumulation, foam cell"	Pathology
+Adenoma..hepatocellular	liver	proliferation	"Adenoma, hepatocellular"	Pathology
+Alteration..cytoplasmic	liver	altered metabolic activity	"Alteration, cytoplasmic"	Pathology
+Alteration..nuclear	liver	NA	"Alteration, nuclear"	Pathology
+Altered.hepatocellular.foci	liver	proliferation	Altered hepatocellular foci	Pathology
+Anisonucleosis	liver	proliferation	Anisonucleosis	Pathology
+Atrophy	liver	altered metabolic activity	Atrophy	Pathology
+Atrophy	liver	cytotoxicity	Atrophy	Pathology
+Atypia..nuclear	liver	proliferation	"Atypia, nuclear"	Pathology
+Bacterium	liver	NA	Bacterium	Pathology
+Cellular.foci	liver	proliferation	Cellular foci	Pathology
+Cellular.infiltration	liver	inflammation	Cellular infiltration	Pathology
+Cellular.infiltration..mononuclear.cell	liver	inflammation	"Cellular infiltration, mononuclear cell"	Pathology
+Cellular.infiltration..neutrophil	liver	inflammation	"Cellular infiltration, neutrophil"	Pathology
+Change..acidophilic	liver	altered metabolic activity	"Change, acidophilic"	Pathology
+Change..basophilic	liver	altered metabolic activity	"Change, basophilic"	Pathology
+Change..eosinophilic	liver	altered metabolic activity	"Change, eosinophilic"	Pathology
+Congestion	liver	NA	Congestion	Pathology
+Cyst	liver	NA	Cyst	Pathology
+DEAD	liver	NA	DEAD	Pathology
+Degeneration	liver	cytotoxicity	Degeneration	Pathology
+Degeneration..acidophilic..eosinophilic	liver	cytotoxicity	"Degeneration, acidophilic, eosinophilic"	Pathology
+Degeneration..fatty	liver	altered metabolic activity	"Degeneration, fatty"	Pathology
+Degeneration..fatty	liver	cytotoxicity	"Degeneration, fatty"	Pathology
+Degeneration..fatty	liver	lipid dysregulation	"Degeneration, fatty"	Pathology
+Degeneration..granular	liver	cytotoxicity	"Degeneration, granular"	Pathology
+Degeneration..granular..eosinophilic	liver	cytotoxicity	"Degeneration, granular, eosinophilic"	Pathology
+Degeneration..hydropic	liver	cytotoxicity	"Degeneration, hydropic"	Pathology
+Degeneration..vacuolar	liver	cytotoxicity	"Degeneration, vacuolar"	Pathology
+Deposit..glycogen	liver	altered metabolic activity	"Deposit, glycogen"	Pathology
+Deposit..hemosiderin	liver	proliferation	"Deposit, hemosiderin"	Pathology
+Deposit..lipid	liver	lipid dysregulation	"Deposit, lipid"	Pathology
+Deposit..pigment	liver	cholestasis	"Deposit, pigment"	Pathology
+Dilatation	liver	NA	Dilatation	Pathology
+Disarrangement	liver	NA	Disarrangement	Pathology
+Ectopic.tissue	liver	NA	Ectopic tissue	Pathology
+Edema	liver	inflammation	Edema	Pathology
+Fibrosis	liver	cytotoxicity	Fibrosis	Pathology
+Giant.cell	NA	inflammation	Giant cell	Pathology
+Granuloma	liver	inflammation	Granuloma	Pathology
+Ground.glass.appearance	liver	altered metabolic activity	Ground glass appearance	Pathology
+Ground.glass.appearance	liver	lipid dysregulation	Ground glass appearance	Pathology
+Hematopoiesis..extramedullary	liver	NA	"Hematopoiesis, extramedullary"	Pathology
+Hemorrhage	liver	NA	Hemorrhage	Pathology
+Hyperplasia	liver	proliferation	Hyperplasia	Pathology
+Hypertrophy	liver	altered metabolic activity	Hypertrophy	Pathology
+Inclusion.body..intracytoplasmic	liver	NA	"Inclusion body, intracytoplasmic"	Pathology
+Increased.mitosis	liver	proliferation	Increased mitosis	Pathology
+Inflammation	liver	inflammation	Inflammation	Pathology
+Inflammation..foreign.body	liver	inflammation	"Inflammation, foreign body"	Pathology
+Inflammation..suppurative	liver	inflammation	"Inflammation, suppurative"	Pathology
+Lesion.NOS	NA	NA	"Lesion,NOS"	Pathology
+Microgranuloma	liver	inflammation	Microgranuloma	Pathology
+Mineralization	liver	NA	Mineralization	Pathology
+Necrosis	liver	cytotoxicity	Necrosis	Pathology
+Necrosis..fibrinoid	NA	NA	"Necrosis, fibrinoid"	Pathology
+Nodule..hepatodiaphragmatic	liver	NA	"Nodule, hepatodiaphragmatic"	Pathology
+Phagocytosis	liver	inflammation	Phagocytosis	Pathology
+Proliferation	liver	proliferation	Proliferation	Pathology
+Proliferation..bile.duct	liver	cytotoxicity	"Proliferation, bile duct"	Pathology
+Proliferation..Kupffer.cell	liver	cytotoxicity	"Proliferation, Kupffer cell"	Pathology
+Proliferation..Kupffer.cell	liver	inflammation	"Proliferation, Kupffer cell"	Pathology
+Proliferation..oval.cell	liver	cytotoxicity	"Proliferation, oval cell"	Pathology
+Pyknosis	liver	cytotoxicity	Pyknosis	Pathology
+Scar	liver	cytotoxicity	Scar	Pathology
+Single.cell.necrosis	liver	cytotoxicity	Single cell necrosis	Pathology
+Swelling	liver	cytotoxicity	Swelling	Pathology
+Thrombus	liver	NA	Thrombus	Pathology
+Vacuolization..cytoplasmic	liver	altered metabolic activity	"Vacuolization, cytoplasmic"	Pathology
+Vacuolization..cytoplasmic	liver	cytotoxicity	"Vacuolization, cytoplasmic"	Pathology
+Vacuolization..nuclear	liver	NA	"Vacuolization, nuclear"	Pathology
+A.G	serum	NA	albumin globulin ratio	Lab
+ALP.IU.L.	serum	cholestasis	alkaline phosphatase	Lab
+ALT.IU.L.	serum	cytotoxicity	alanine aminotransferase	Lab
+APTT.s.	serum	NA	activated partial thromboplastin time	Lab
+AST.IU.L.	serum	cytotoxicity	aspartate aminotransferase	Lab
+Bas...	serum	NA	basophil	Lab
+BUN.mg.dL.	serum	NA	blood urea nitrogen	Lab
+Ca.mg.dL.	serum	NA	calcium	Lab
+Cl.meq.L.	serum	NA	chlorine	Lab
+CRE.mg.dL.	serum	NA	creatinine	Lab
+DBIL.mg.dL.	serum	cholestasis	direct bilirubin	Lab
+Eos...	serum	NA	eosinophil	Lab
+Fbg.mg.dL.	serum	NA	fibrinogen	Lab
+GLC.mg.dL.	serum	NA	glucose	Lab
+GTP.IU.L.	serum	cholestasis	g-glutamyltranspeptidase	Lab
+Hb.g.dL.	serum	NA	hemoglobin	Lab
+Ht...	serum	NA	hematocrit value	Lab
+IP.mg.dL.	serum	NA	inorganic phosphorus	Lab
+K.meq.L.	serum	NA	potassium	Lab
+LDH.IU.L.	serum	cytotoxicity	lactate dehydrogenase	Lab
+LIVER.g.	NA	NA	Liver weight	Lab
+Lym...	serum	NA	lymphocyte	Lab
+MCH.pg.	serum	NA	mean corpuscular hemoglobin	Lab
+MCHC...	serum	NA	mean corpuscular hemoglobin concentration	Lab
+MCV.fL.	serum	NA	mean corpuscular volume	Lab
+Mono...	serum	NA	monocyte	Lab
+Na.meq.L.	serum	NA	sodium	Lab
+Neu...	serum	NA	neutrophil	Lab
+PL.mg.dL.	serum	lipid dysregulation	phospholipid	Lab
+Plat.x10_4.uL.	serum	NA	platelet count	Lab
+PT.s.	serum	NA	prothrombin time	Lab
+RALB.g.dL.	serum	NA	albumin	Lab
+RBC.x10_4.ul.	serum	NA	red blood cell count	Lab
+Ret...	serum	NA	reticulocyte	Lab
+TBIL.mg.dL.	serum	cholestasis	total bilirubin	Lab
+TC.mg.dL.	serum	lipid dysregulation	total cholesterol	Lab
+TERMINAL_BW.g.	NA	NA	Body weight	Lab
+TG.mg.dL.	serum	lipid dysregulation	triglyceride	Lab
+TP.g.dL.	serum	NA	total protein	Lab
+WBC.x10_2.uL.	serum	NA	white blood cell count	Lab
