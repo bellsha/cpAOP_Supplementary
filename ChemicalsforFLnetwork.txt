@@ -1,0 +1,16 @@
+Chemicals that are 2nd neightbors to all 3 of the fatty liver AOs
+See: https://github.com/bellsha/cpAOP/blob/master/cpAOPextraction.R
+
+[1] "acetaminophen"             "bendazac"                  "benzbromarone"            
+[4] "bortezomib"                "carbon_tetrachloride"      "chlormezanone"            
+[7] "colchicine"                "cycloheximide"             "dantrolene"               
+[10] "diazepam"                  "ethambutol"                "ethanol"                  
+[13] "ethinylestradiol"          "ethionamide"               "flutamide"                
+[16] "hexachlorobenzene"         "lomustine"                 "methapyrilene"            
+[19] "methylene_dianiline"       "monocrotaline"             "naphthyl_isothiocyanate"  
+[22] "naproxen"                  "nimesulide"                "nitrosodiethylamine"      
+[25] "papaverine"                "phenobarbital"             "phenylanthranilic_acid"   
+[28] "phorone"                   "promethazine"              "propylthiouracil"         
+[31] "puromycin_aminonucleoside" "rifampicin"                "tamoxifen"                
+[34] "terbinafine"               "thioacetamide"             "vitamin_A"                
+[37] "WY-14643" 
