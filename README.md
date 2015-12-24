@@ -2,15 +2,18 @@
 Supplementary data for cpAOP paper
 
 **TGGATESProc**
-*descretized data files from TG-GATES*
 
-LiverLabDescData201411.txt: Descretized laboratory values for rat coming from https://github.com/bellsha/TGGATESProc/blob/master/TGGATESlabprep.R
+*discretized data files from TG-GATES*
 
-PathEnrichReactomeDataFrame.txt: Descretized differentially expressed pathways based on Reactome annotation coming from https://github.com/bellsha/cpAOP/blob/master/gene2biospace.R
+LiverLabDescData201411.txt: Discretized laboratory values for rat coming from https://github.com/bellsha/TGGATESProc/blob/master/TGGATESlabprep.R
 
-open_tggates_pathologyDESC.txt: Descretized liver pathology values for the rats coming from https://github.com/bellsha/TGGATESProc/blob/master/TGGATESpathologyprep.R
+PathEnrichReactomeDataFrame.txt: Discretized differentially expressed pathways based on Reactome annotation coming from https://github.com/bellsha/cpAOP/blob/master/gene2biospace.R
+
+open_tggates_pathologyDESC.txt: Discretized liver pathology values for the rats coming from https://github.com/bellsha/TGGATESProc/blob/master/TGGATESpathologyprep.R
+
 
 *files needed to run code*
+
 RunInfo-Liver-NetRun1501.txt: description of all the data files, columns are: "runID", "fileName","SPECIES","ORGAN_ID", "CHEMICAL", "DOSE_LEVEL", "SACRIFICE_PERIOD","TEST-TYPE","SINGLE_REPEAT_TYPE"
 
 Chem2MechMapping1013.txt: a chemical mapping file that was used to try and group some of the chemicals by mechanism. Used DrugMatrix annotations. Code not provided here
@@ -21,23 +24,28 @@ LiverPathologyChemicalEdges201411.txt: Values for the chemical treatment -> path
 
 PathEnrichReactomeAnnoTable.txt: the annotation table with the treatments and the DE reactome nodes generated in https://github.com/bellsha/cpAOP/blob/master/gene2biospace.R
 
+
 **Reactome2Network**
+
 ReactomePathways2UniProtRAT.txt : output from https://github.com/bellsha/Reactome2Network/blob/master/ReactomeClassv2.R
 
+
 **TOXCASTProc**
+
 *processed datafiles from the 2014 ToxCast release*
 
-ChemAssayBioHitLabels20150703.txt: labels for the toxcast chemicals and assays, used in the NodeEdgeLabel.R, https://github.com/bellsha/cpAOP/blob/master/ToxCastDataprocessing.R
+ChemAssayBioHitLabels20150703.txt: labels for the toxcast chemicals and assays, used in the NodeEdgeLabel.R, generated in https://github.com/bellsha/cpAOP/blob/master/ToxCastDataprocessing.R
 
-ToxCastChemAssayRatPathNodes20150703.txt: nodes for the toxcast chemicals and assays for reactome, used in the NodeEdgeLabel.R, https://github.com/bellsha/cpAOP/blob/master/ToxCastDataprocessing.R
+ToxCastChemAssayRatPathNodes20150703.txt: nodes for the toxcast chemicals and assays for reactome, used in the NodeEdgeLabel.R, generated in https://github.com/bellsha/cpAOP/blob/master/ToxCastDataprocessing.R
 
 
-**Main Directory
+**Main Directory**
+
 *Results files *
 
 cpAOPNetworkFile.cys: Cytoscape file containing the networks presented in this work (cpAOPnetwork, the CCl4 cpAOPsubnet, and the fatty liver cpAOPsubnet), networks generated through: https://github.com/bellsha/cpAOP/blob/master/cpAOPextraction.R
 
-ChemicalsforFLnetwork.txt: List of 37 chemicals that were second neighbors to all 3 of the AOs.
+ChemicalsforFLnetwork.txt: List of 37 chemicals that were second neighbors to all 3 of the AOs identified based on TGGATEs phenotypes that relate to fatty liver. These chemicals have not necessarily been shown to induce fatty liver nor do the authors make this claim based on the current analysis.
 
 NodeLabels.txt: Annotation for the nodes in the dataset. ID=nodeID, altID=human-readable ID, Group=what data type did it belong to, ClassUpper=higher level grouping, ClassLower=lower level grouping (described in materials and methods) Generated through https://github.com/bellsha/cpAOP/blob/master/NodeEdgeLabel.R
 
